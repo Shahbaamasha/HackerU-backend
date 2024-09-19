@@ -1,0 +1,170 @@
+
+      Date: 2024-09-16T21:56:05.005Z
+      Method: GET
+      URL: /cards/my-cards
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T21:57:52.020Z
+      Method: GET
+      URL: /cards/my-cards
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T21:58:04.195Z
+      Method: GET
+      URL: /cards/my-cards
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T21:58:06.237Z
+      Method: GET
+      URL: /cards/my-cards
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T21:59:53.629Z
+      Method: POST
+      URL: /cards/?1=123
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T22:00:21.792Z
+      Method: POST
+      URL: /cards/?VoImKyidfS=123
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T22:00:29.893Z
+      Method: POST
+      URL: /cards/?=123
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T22:00:34.818Z
+      Method: PUT
+      URL: /cards/66e5f1ff906128c21b9185b3
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T22:01:21.055Z
+      Method: PATCH
+      URL: /cards/create
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T22:04:32.620Z
+      Method: PATCH
+      URL: /cards/create
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T22:07:10.425Z
+      Method: PATCH
+      URL: /cards/create
+      Status: 500
+      Error Message: Cast to ObjectId failed for value "create" (type string) at path "_id" for model "Card"
+      -----------------------------
+    
+      Date: 2024-09-16T22:07:11.284Z
+      Method: PATCH
+      URL: /cards/create
+      Status: 500
+      Error Message: Cast to ObjectId failed for value "create" (type string) at path "_id" for model "Card"
+      -----------------------------
+    
+      Date: 2024-09-16T22:07:49.244Z
+      Method: PATCH
+      URL: /cards/create?900=1
+      Status: 500
+      Error Message: Cast to ObjectId failed for value "create" (type string) at path "_id" for model "Card"
+      -----------------------------
+    
+      Date: 2024-09-16T22:08:59.791Z
+      Method: GET
+      URL: /cards
+      Status: 500
+      Error Message: 1C1F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1590:SSL alert number 80
+
+      -----------------------------
+    
+      Date: 2024-09-16T22:11:49.263Z
+      Method: GET
+      URL: /cards
+      Status: 500
+      Error Message: Operation `cards.find()` buffering timed out after 10000ms
+      -----------------------------
+    
+      Date: 2024-09-16T22:14:43.065Z
+      Method: DELETE
+      URL: /cards/delte:
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T22:14:55.760Z
+      Method: DELETE
+      URL: /cards/delete
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T22:18:09.570Z
+      Method: DELETE
+      URL: /cards/delete?id:66e738531f8e99f7a29c7c0f
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T22:18:45.412Z
+      Method: DELETE
+      URL: /cards/66e738531f8e99f7a29c7c0f
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T22:19:01.222Z
+      Method: DELETE
+      URL: /cards/66e738531f8e99f7a29c7c0f:id
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T22:19:38.261Z
+      Method: DELETE
+      URL: /cards/66e738531f8e99f7a29c7c0f
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T22:20:02.925Z
+      Method: DELETE
+      URL: /cards/66e738531f8e99f7a29c7c10
+      Status: 500
+      Error Message: jwt malformed
+      -----------------------------
+    
+      Date: 2024-09-16T22:24:55.288Z
+      Method: POST
+      URL: /users
+      Status: 400
+      Error Message: Expected ',' or '}' after property value in JSON at position 320
+      -----------------------------
+    
+      Date: 2024-09-16T22:25:08.499Z
+      Method: POST
+      URL: /users
+      Status: 400
+      Error Message: Expected ',' or '}' after property value in JSON at position 320
+      -----------------------------
+    

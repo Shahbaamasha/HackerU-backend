@@ -1,0 +1,29 @@
+
+      Date: 2024-09-15T21:01:35.006Z
+      Method: POST
+      URL: /users/login
+      Status: 500
+      Error Message: date is not defined
+      -----------------------------
+    
+      Date: 2024-09-15T21:02:49.045Z
+      Method: POST
+      URL: /users/login
+      Status: 500
+      Error Message: date.getDate is not a function
+      -----------------------------
+    
+      Date: 2024-09-15T21:03:15.700Z
+      Method: POST
+      URL: /users/login
+      Status: 500
+      Error Message: date.getDate is not a function
+      -----------------------------
+    
+      Date: 2024-09-15T21:03:18.828Z
+      Method: POST
+      URL: /users/login
+      Status: 500
+      Error Message: date.getDate is not a function
+      -----------------------------
+    
